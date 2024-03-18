@@ -1,9 +1,9 @@
 {
-  "title": "My site",
+  "title": "CodeHub - Get Code for Free",
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
+      "title": "Amazon Clone In Flutter",
       "logo": "image/logo.png",
       "items": [
         {

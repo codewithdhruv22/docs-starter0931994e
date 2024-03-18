@@ -6,13 +6,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "overview/introduction",
+          "id": "intro",
           "label": "Introduction"
         },
         {
           "type": "doc",
-          "id": "overview/basic-features",
+          "id": "app_function",
           "label": "Basic features"
+        },
+        {
+          "type": "doc",
+          "id": "code",
+          "label": "Code Snippets"
+        },
+        {
+          "type": "doc",
+          "id": "about_me",
+          "label": "About Me"
         }
       ]
     },
